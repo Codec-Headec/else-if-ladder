@@ -6,6 +6,7 @@ import java.util.*;
 public class ElseIfLadder{
     public static void main(String[] args) {
         int m1, m2, m3, per;
+        
         Scanner sc;
 
         sc = new Scanner(System.in);
